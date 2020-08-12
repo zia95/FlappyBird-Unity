@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 819fc27cd01dcb9418df57e48b228c9a
+timeCreated: 1474030983
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - PanelDifficultySelection: {instanceID: 0}
+  - DifficultyEasy: {instanceID: 0}
+  - DifficultyMedium: {instanceID: 0}
+  - DifficultyHard: {instanceID: 0}
+  - PanelHighScore: {instanceID: 0}
+  - TextDifficulty: {instanceID: 0}
+  - TextHighScore: {instanceID: 0}
+  - HighScorePressed: {instanceID: 0}
+  - HighScoreNormal: {instanceID: 0}
+  - OptionsPressed: {instanceID: 0}
+  - OptionsNormal: {instanceID: 0}
+  - btnHighScores: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
